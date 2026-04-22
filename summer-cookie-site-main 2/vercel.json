@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/cookies/index.html"
+      "destination": "/index.html"
     },
     {
       "source": "/:path*",
-      "destination": "/cookies/index.html"
+      "destination": "/index.html"
     }
   ]
 }

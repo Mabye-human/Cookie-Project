@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/cookies/index.html"
+    },
+    {
+      "source": "/:path*",
+      "destination": "/cookies/index.html"
+    }
+  ]
+}
